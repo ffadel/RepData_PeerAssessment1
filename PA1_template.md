@@ -5,13 +5,8 @@ date: "July 31, 2017"
 output:
   html_document: default
   html_notebook: default
-  pdf_document: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(ggplot2)
-```
 ###Loading and preprocessing the data  
 Show any code that is needed to  
 1.    Load the data (i.e. read.csv())  
