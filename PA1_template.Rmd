@@ -3,7 +3,9 @@ title: "Reproducible Research - Project 1"
 author: "FFadel"
 date: "July 31, 2017"
 output:
-  html_document: default
+  html_document: 
+    fig_caption: yes
+    keep_md: yes
   html_notebook: default
   pdf_document: default
 ---
